@@ -11,3 +11,11 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+# Dev Note
+
+TODO:
+Need unlock func
+test func
+
+Think about meta connector needed or not
